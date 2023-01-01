@@ -1,6 +1,6 @@
 FROM rockylinux:9
 LABEL maintainer="Tim Gruetzmacher"
-LABEL org.opencontainers.image.source="https://github.com/TimGrt/docker-rockylinux8-ansible"
+LABEL org.opencontainers.image.source="https://github.com/TimGrt/docker-rockylinux9-ansible"
 ENV container=docker
 
 # Install systemd -- See https://hub.docker.com/_/centos/
