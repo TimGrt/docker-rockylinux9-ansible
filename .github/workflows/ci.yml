@@ -28,4 +28,4 @@ jobs:
           file: Dockerfile
           platforms: linux/amd64
           push: true
-          tags: timgrt/rockylinux8-ansible:latest
+          tags: timgrt/rockylinux9-ansible:latest
