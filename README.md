@@ -1,6 +1,6 @@
 # Rocky Linux 9 Ansible Test Image
 
-Rocky Linux 89 Docker container for Ansible playbook and role testing.  
+Rocky Linux 9 Docker container for Ansible playbook and role testing.  
 This container is used to test Ansible roles and playbooks (e.g. with molecule) running locally inside the container.  
 A user `ansible` is created with password-less sudo configured.
 
